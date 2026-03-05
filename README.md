@@ -66,7 +66,11 @@ This project can be deployed on platforms like:
 Make sure to configure the following environment variables:
 
 PORT  
-REDIS_URL  
+REDIS_URL 
+
+## Live Deployment
+
+https://exp-43.onrender.com
 
 ---
 
